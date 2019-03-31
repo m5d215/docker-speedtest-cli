@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+set -e
+set -u
+
+docker container run --rm \
+    m5d215/speedtest-cli:latest "$@"

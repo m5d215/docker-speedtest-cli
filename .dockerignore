@@ -1,0 +1,6 @@
+.git
+bin
+.dockerignore
+.editorconfig
+Dockerfile
+README.md
